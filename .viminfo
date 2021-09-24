@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1632467312,,"wq"
+|2,0,1632468302,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,12 +25,22 @@
 # Registers:
 
 # File marks:
-'0  2  44  ~/file1.txt
-|4,48,2,44,1632467312,"~/file1.txt"
-'1  2  54  ~/file1.txt
-|4,49,2,54,1632461884,"~/file1.txt"
+'0  7  9  ~/file1.txt
+|4,48,7,9,1632468302,"~/file1.txt"
+'1  2  44  ~/file1.txt
+|4,49,2,44,1632467312,"~/file1.txt"
+'2  2  44  ~/file1.txt
+|4,50,2,44,1632467312,"~/file1.txt"
+'3  2  54  ~/file1.txt
+|4,51,2,54,1632461884,"~/file1.txt"
+'4  2  54  ~/file1.txt
+|4,52,2,54,1632461884,"~/file1.txt"
 
 # Jumplist (newest first):
+-'  7  9  ~/file1.txt
+|4,39,7,9,1632468302,"~/file1.txt"
+-'  2  44  ~/file1.txt
+|4,39,2,44,1632468257,"~/file1.txt"
 -'  2  44  ~/file1.txt
 |4,39,2,44,1632467312,"~/file1.txt"
 -'  2  54  ~/file1.txt
@@ -39,12 +49,15 @@
 |4,39,1,0,1632461778,"~/file1.txt"
 -'  1  0  ~/file1.txt
 |4,39,1,0,1632461778,"~/file1.txt"
+-'  1  0  ~/file1.txt
+|4,39,1,0,1632461778,"~/file1.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/file1.txt
-	*	1632467309	0
-	"	2	44
-	^	2	45
-	.	2	44
-	+	2	44
+	*	1632468299	0
+	"	7	9
+	^	7	10
+	.	7	9
+	+	2	53
+	+	7	9
